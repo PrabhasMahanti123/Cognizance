@@ -50,6 +50,3 @@ _The top competitors of our company are the International Cricket Council, ESPNc
 > **WhatsApp Guide** - 9182736450  📞📱📲
 
 > **Mail Us** - cric.co143@gmail.com  📨📧📩
-
-> **Our WebSite** - https://github.com/PrabhasMahanti123/Cognizance/blob/main/Task-3/IPL%20Dashboard%20(Cric%20App) 
- 
