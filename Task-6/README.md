@@ -24,23 +24,23 @@
  
  ## **Our Achivements**
  
- * *In October 2020, our company ranked 406 globally.*✌️
- * *we was ranked as 40 in India by Alexa Internet.*😎
- * *The site was the 7th most search site in India for the year 2018.*🙌
- * *The mobile app has over 100 million downloads and more for October 2020.*🤩
- * *The website was used by more than 50 million users all over the world. It generated 2.6 billion page views in January 2019. Unbelievable!!😊
+ * *In October 2020, our company ranked 406 globally.* ✌️
+ * *we was ranked as 40 in India by Alexa Internet.* 😎
+ * *The site was the 7th most search site in India for the year 2018.* 🙌
+ * *The mobile app has over 100 million downloads and more for October 2020.* 🤩
+ * *The website was used by more than 50 million users all over the world. It generated 2.6 billion page views in January 2019. Unbelievable!!* 😊
 
 ---
 
 ## **Our Competators**
 
-_The top competitors of our company are the International Cricket Council, ESPNcricinfo, Cricbuzz, Onecricket and Sports keeda._😐😑
+*The top competitors of our company are the International Cricket Council, ESPNcricinfo, Cricbuzz, Onecricket and Sports keeda*😐😑
 
 ---
 
 ## **Improvements**
 
-* *We are trying to change our interface.*
+* *We are trying to change our interface.* ✊
 * *App is giving to many adds and we are planing on that to reduce the adds.*
 * *App has a really cool feature that this app can send regular notification without running app.*
 
